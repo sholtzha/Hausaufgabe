@@ -1,11 +1,11 @@
-#include <iostream>
+﻿#include <iostream>
 using namespace std;
 #include "zeichenkette4.h"
 
 int main()
 {
 
-// 3 Instanzen der Klasse ClZeichenkette anlegen
+// 3 wunderschöne Instanzen der Klasse ClZeichenkette anlegen
 ClZeichenkette zk1, zk2, zk3;
 
 cout << "Bitte geben Sie eine beliebig lange erste Zeichenkette ein:";
